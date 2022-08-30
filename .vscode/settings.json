@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "squre": "c",
+        "stdint.h": "c",
+        "stdbool.h": "c",
+        "stdio.h": "c"
+    }
+}
